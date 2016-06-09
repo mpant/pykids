@@ -1,7 +1,7 @@
-$pykids
+pykids
 ========
 
-$project is a voluntary effort to bring Python to K-12 kids. 
+pykids is a voluntary effort to bring Python to K-12 kids. 
 
 
 What
@@ -14,8 +14,8 @@ What
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Issue Tracker: github.com/mpant/pykids/issues
+- Source Code: github.com/mpant/pykids
 
 Support
 -------
