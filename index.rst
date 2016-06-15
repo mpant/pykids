@@ -6,8 +6,8 @@ pykids is a voluntary effort to bring Python to K-12 kids.
 
 What
 --------
-
-- Python lessons - Jupyter notebooks
+- Scratch and turtle lessons for K-3 
+- Python lessons - Jupyter notebooks 
 - AWS Lab server that provides access to notebooks
 
 
