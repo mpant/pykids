@@ -15,6 +15,7 @@ What
 
 How
 --------
+
 This is a volunteer run effort. All students need is a laptop and an internet connection. They can remotely access their notebooks and save their work to revisit later. 
 
 
