@@ -11,6 +11,7 @@ What
 --------
 
 - Scratch and turtle ( K - 3 )
+
 - Python lessons - Jupyter notebooks for versions 3 ( 5th grade and up)
   + What is programming and Problem solving with  Hello World python exercise
   + Introduction to Jupyter notebook
