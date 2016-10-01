@@ -13,19 +13,20 @@ What
 - Scratch and turtle ( K - 3 )
 
 - Python lessons - Jupyter notebooks for versions 3 ( 5th grade and up)
-  | What is programming and Problem solving with  Hello World python exercise
-  | Introduction to Jupyter notebook
-  | Data Structures ( string, integer, boolean, lists)
-  | Variables
-  | If statements
-  | Loops
-  | Functions 
-  | Objects 
-  | Exceptions
-  | Basic Error Handling
-  | User Input 
-  | Web programming
-  | Data mining and graphs 
+
+ What is programming and Problem solving with  Hello World python exercise
+ Introduction to Jupyter notebook
+ Data Structures ( string, integer, boolean, lists)
+ Variables
+ If statements
+ Loops
+ Functions 
+ Objects 
+ Exceptions
+ Basic Error Handling
+ User Input 
+ Web programming introduction
+ Data mining and graphs 
 
 - AWS Lab server that provides access to notebooks
   + Based on http://coderdojotc.readthedocs.io/projects/python-minecraft/
@@ -33,7 +34,7 @@ What
 How
 --------
 
- All students need is a laptop and an internet connection. They can remotely access their notebooks and save their work to revisit later. 
+All students need is a laptop and an internet connection. They can remotely access their notebooks and save their work to revisit later. 
 
 
 Contribute
