@@ -1,7 +1,7 @@
 pykids
 ========
 
-pykids is a voluntary effort to bring Python to elementary school (5th grade and up) kids. 
+pykids is a voluntary effort to bring Python to elementary school (5th & 6th grades). 
  - Our blog is publicly available at http://hello.pykids.us/. 
  - Students can sign up and start using the jupyter notebooks (Python3) hosted at our server. They can save their notebooks to resuse later. 
  - They can sign up for local classes/meetups for instructor based learning via the blog.
@@ -12,21 +12,15 @@ What
 
 - Scratch and turtle ( K - 3 )
 
-- Python lessons - Jupyter notebooks for versions 3 ( 5th grade and up)
+- Python lessons - Jupyter notebooks ( 5th & 6th  grades)
 
-1. What is programming and Problem solving with  Hello World python exercise
+1. Hello World python exercise
 2. Introduction to Jupyter notebook
-3. Data Structures ( string, integer, boolean, lists)
-4. Variables
-5. If statements
-6. Loops
-7. Functions 
-8. Objects 
-9. Exceptions
-10. Basic Error Handling
-11. User Input 
-12. Web programming introduction
-13. Data mining and graphs 
+3. Calculator and simple math
+4. Creating name tags with strings 
+5. Drawing 
+6. Coloring grids
+7. Drawing graphs 
 
 - AWS Lab server that provides access to notebooks
   + Based on http://coderdojotc.readthedocs.io/projects/python-minecraft/
