@@ -1,11 +1,15 @@
 pykids
 ========
 
-pykids is a voluntary effort to bring Python to elementary school (5th & 6th grades). 
- - Our blog is publicly available at http://hello.pykids.us/. 
+pykids is a voluntary effort to bring Python to elementary school (elmentary (6th grade) and above). 
+ - Our blog is publicly available at https://medium.com/pykids
  - Students can sign up and start using the jupyter notebooks (Python3) hosted at our server. They can save their notebooks to resuse later. 
  - They can sign up for local classes/meetups for instructor based learning via the blog.
 
+
+News
+--------
+- Recent workshop held at PyBay 2017 
 
 What
 --------
