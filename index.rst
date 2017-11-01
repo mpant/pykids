@@ -1,16 +1,21 @@
 pykids
 ========
 
-pykids is a voluntary effort to bring Python to elementary school (5th & 6th grades). 
- - Our blog is publicly available at http://hello.pykids.us/. 
+pykids is a voluntary effort to bring Python to elementary school (5th grade and above). 
+ - Our blog is publicly available at https://medium.com/pykids
  - Students can sign up and start using the jupyter notebooks (Python3) hosted at our server. They can save their notebooks to resuse later. 
  - They can sign up for local classes/meetups for instructor based learning via the blog.
 
 
+News
+--------
+- Fall session kickoff afterschool program , October 2017
+- Recent workshop held at PyBay 2017 , August 2017
+
 What
 --------
 
-- Scratch and turtle ( K - 3 )
+- Scratch and turtle ( K - 3 ) - On demand only
 
 - Python lessons - Jupyter notebooks ( 5th & 6th  grades)
 
