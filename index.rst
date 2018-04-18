@@ -9,7 +9,8 @@ pykids is a voluntary effort to bring Python to elementary school (5th grade and
 
 News
 --------
-- Fall session kickoff afterschool program , October 2017
+- Spring session (intermediate) kickoff afterschool program (Olive Childen Foundation), April 2018
+- Fall session (beginners) kickoff afterschool program (Olive Childen Foundation), October 2017
 - Recent workshop held at PyBay 2017 , August 2017
 
 What
