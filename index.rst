@@ -3,33 +3,35 @@ pykids
 
 pykids is a voluntary effort to bring Python to elementary school (5th grade and above). 
  - Our blog is publicly available at https://medium.com/pykids
- - Students can sign up and start using the jupyter notebooks (Python3) hosted at our server. They can save their notebooks to resuse later. 
- - They can sign up for local classes/meetups for instructor based learning via the blog.
-
+ - Students use Azure notebooks provided by Microsoft. They are able to save their work and revisit it at home.
 
 News
 --------
 - Spring session (intermediate) kickoff afterschool program (Olive Childen Foundation), April 2018
 - Fall session (beginners) kickoff afterschool program (Olive Childen Foundation), October 2017
+-  Presentation by student at PyCon 2018
 - Recent workshop held at PyBay 2017 , August 2017
 
 What
 --------
 
-- Scratch and turtle ( K - 3 ) - On demand only
-
-- Python lessons - Jupyter notebooks ( 5th & 6th  grades)
-
+Beginners curriculum
+********************
 1. Hello World python exercise
 2. Introduction to Jupyter notebook
 3. Calculator and simple math
 4. Creating name tags with strings 
 5. Drawing 
-6. Coloring grids
-7. Drawing graphs 
+6. Fun with loops
+7. Creating a chess board with ipythonblocks! 
 
-- AWS Lab server that provides access to notebooks
-  + Based on http://coderdojotc.readthedocs.io/projects/python-minecraft/
+Advanced curriculum
+*********************
+1. Functions 
+2. Creating your own scripts 
+3. Funny "madlibs"  
+4. Student report card by grade
+5. Beginners data science
 
 How
 --------
