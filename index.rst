@@ -7,7 +7,7 @@ pykids is a voluntary effort to bring Python to elementary school (5th grade and
 
 News
 --------
-- Pykids partners with ASDRP. In summer 2018Pykids provided project based learning to HS students. Read more - https://bit.ly/2NvAuQJ
+- Pykids partners with ASDRP. In summer 2018, Pykids provided project based learning to HS students. Read more - https://bit.ly/2NvAuQJ
 - Spring session (intermediate) kickoff afterschool program (Olive Childen Foundation), April 2018
 - Fall session (beginners) kickoff afterschool program (Olive Childen Foundation), October 2017
 - Presentation by student at PyCon 2018
