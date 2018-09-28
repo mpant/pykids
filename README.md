@@ -1,2 +1,2 @@
 # pykids
-Jupyter notebooks for elementary and middle schoolers 
+Jupyter notebooks for teaching newbies and children.
