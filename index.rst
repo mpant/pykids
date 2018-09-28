@@ -23,8 +23,8 @@ Beginners curriculum
 3. Calculator and simple math
 4. Creating name tags with strings 
 5. Drawing 
-6. Fun with loops - for and while
-7. Conditions - If
+6. Fun with loops (for and while)
+7. Conditionals (If else)
 7. Creating a chess board with ipythonblocks! 
 8. Functions 
 9. Creating your first script
