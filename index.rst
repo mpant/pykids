@@ -25,9 +25,9 @@ Beginners curriculum
 5. Drawing 
 6. Fun with loops (for and while)
 7. Conditionals (If else)
-7. Creating a chess board with ipythonblocks! 
-8. Functions 
-9. Creating your first script
+8. Creating a chess board with ipythonblocks! 
+9. Functions 
+10. Creating your first script
 
 Advanced curriculum
 =====================
