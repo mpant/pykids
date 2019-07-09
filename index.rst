@@ -7,7 +7,8 @@ pykids is a voluntary effort to bring Python to elementary school (5th grade and
 
 News
 ========
-
+- Pykids and ASDRP summer project presented in Maker Faire , Bay Area 2019 https://medium.com/pykids/diy-christmas-ornaments-in-maker-faire-2019-4d567d46fa93
+- Pykids and ASDRP summer project showcased in PyCon 2019 https://us.pycon.org/2019/schedule/presentation/120/
 - Pykids parthers with https://www.fremontstem.org/ for Fall 2018 Python classes for HS students
 - Pykids partners with ASDRP. In summer 2018, Pykids provided project based learning to HS students. Read more - https://bit.ly/2NvAuQJ
 - Spring session (intermediate) kickoff afterschool program (Olive Childen Foundation), April 2018
